@@ -1,0 +1,44 @@
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
